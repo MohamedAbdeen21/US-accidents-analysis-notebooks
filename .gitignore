@@ -1,3 +1,6 @@
 /temporary/**
+**/__pycache__/**
 US_*
+.ipynb**
 /Stream/
+stream.ipynb
