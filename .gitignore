@@ -1,6 +1,7 @@
 /temporary/**
+/kafka/
+/parquet/
 **/__pycache__/**
 US_*
 .ipynb**
-/Stream/
-stream.ipynb
+stream_df.db
