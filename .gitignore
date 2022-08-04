@@ -1,7 +1,6 @@
 /temporary/**
 /kafka/
-/parquet/
 **/__pycache__/**
-US_*
 .ipynb**
-stream_df.db
+/Divider-data/
+/Data/
