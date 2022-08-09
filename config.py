@@ -6,6 +6,3 @@ SOURCE_TOPIC = "quickstart-events"
 
 # Data directory
 DATADIR = "/home/mohamed/US_Accidents_Analysis/Walkthrough/Data/"
-
-# Postgres JAR
-PSQLJAR = DATADIR + "postgresql-42.4.1.jar"
