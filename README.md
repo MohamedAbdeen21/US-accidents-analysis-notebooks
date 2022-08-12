@@ -19,4 +19,4 @@ I also wanted to include Kafka Streams, but it is not supported in Python. So I 
 
 ## Final dashboard
 
-![](Resources/dashboard2.jpg)
+![](Resources/dashboard.jpg)
